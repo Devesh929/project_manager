@@ -1,0 +1,45 @@
+{
+  "dark_mode": true,
+  "git_user_info": {
+    "username": "",
+    "repository_token": "",
+    "gist_id": ""
+  },
+  "projects_id": 1,
+  "projects": [
+    {
+      "id": 0,
+      "title": "Simple Project",
+      "description": "<p>Hello, World !</p>",
+      "categories": [
+        {
+          "tag": "todo",
+          "title": "TODO",
+          "folded": false
+        },
+        {
+          "tag": "in_progress",
+          "title": "In Progress",
+          "folded": false
+        },
+        {
+          "tag": "done",
+          "title": "Done",
+          "folded": false
+        }
+      ],
+      "opened_milestone_id": 0,
+      "customPath": "",
+      "timestamp": 1535761480118
+    }
+  ],
+  "current_project_id": 0,
+  "window_width": 1325,
+  "window_height": 777,
+  "application_color": "indigo white--text",
+  "first_time_use": false,
+  "default_databases_folder": "",
+  "isMac": false,
+  "display_tasks": true,
+  "lang": "en"
+}
